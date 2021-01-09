@@ -1,32 +1,32 @@
 ## Hey 👋, I'm [Kunal Sharma!](https://github.com/ks3122001/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ceokartik)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ceokartik.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ceokartik)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ceokartik/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sharma-3b35661a8/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ks3122001.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KunalSh3122001)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kirro_sharma/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pvaceo)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ceokartik.ceokartik&style=flat-square&color=0088cc)
 
-I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP University 🏛. I am founder of @pvaindia, @theepiccode & @pvaiot.  I am over attracted to cyber security concepts. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor enthusiasts 👨🏻‍💻.
+I'm a 18 year old student pursuing BTech in Computer Science 🎓 from AKTU University 🏛. I am Head Of Department of @pvaindia @GraphicsDesigning, @theepiccode & @pvaiot.  I am over attracted to IOT Development and Artificial Intelligence. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor enthusiasts 👨🏻‍💻.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Python, Javascript, Wordpress, Ruby etc.
-- 🚀 &nbsp; I’m currently learning Offensive Cyber Security.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ceokartik).
+- 🛠 &nbsp; I’m currently working with C Language, C++, Animation, Arduino, <br /> Python, Javascript, Wordpress, Ruby etc.
+- 🚀 &nbsp; I’m currently learning PHP and RasberryPie.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ks3122001).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/pvaceo)! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
-- 📫 &nbsp; How to reach me: kartikbathla1234@gmail.com
+- 📫 &nbsp; How to reach me: kunal3122001@gmail.com OR kunal@pvaindia.com
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible
-- 🍕 &nbsp; Hackathons, meetups & tech events
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, Robowars & tech events.
 
 ### Languages and Tools:
 
