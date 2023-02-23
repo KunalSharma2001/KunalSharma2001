@@ -57,7 +57,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalSharma2001&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceokartik&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSharma2001&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <!--
@@ -110,9 +110,9 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 & Parrot OS </li>
-	    <li><b>Laptop: </b> Dell Latitude (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> MSI GL65 </li>
+  	    <li><b>Browser: </b> Brave & Microsoft Edge </li>
 	    <li><b>Code Editor:</b> JetBrains & VSCode</li>
 	    <li><b>To Stay Updated:</b> <a href="https://theepiccode.com">The Epic Code</a></li>
 	    <br />
