@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Kunal Sharma!](https://github.com/ks3122001/)
+.## Hey 👋, I'm [Kunal Sharma!](https://github.com/ks3122001/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sharma-3b35661a8/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ks3122001.github.io/)
@@ -8,24 +8,29 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ceokartik.ceokartik&style=flat-square&color=0088cc)
 
-I'm a 18 year old student pursuing BTech in Computer Science 🎓 from AKTU University 🏛. I am Head Of Department of @pvaindia @GraphicsDesigning, @theepiccode & @pvaiot.  I am over attracted to IOT Development and Artificial Intelligence. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor enthusiasts 👨🏻‍💻.
+Hi 👋🏻, My name is Kunal Sharma and I'm pursuing my UG in Computer Science and Engineering (Artificial Intelligence) at the Pranveer Singh Institute of Technology, Kanpur, an AKTU University, Lucknow. 
+During my college, I've worked for 8-9 months for Reset Networks, an internship related to Machine Learning and Software Development.
+
+I’m currently learning about Supervised Learning, Data Analysis, and Database Management Systems.
+
+I'm an aspiring Engineer with working knowledge of database, and machine learning(supervised learning), in the computer industry. Skilled in C++, Python SQL, Data Analysis.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C Language, C++, Animation, Arduino, <br /> Python, Javascript, Wordpress, Ruby etc.
-- 🚀 &nbsp; I’m currently learning PHP and RasberryPie.
+- 🛠 &nbsp; I’m currently working with Machine Learning, C++, Python, Data Analysis, <br /> MATLABS, Power BI.
+- 🚀 &nbsp; I’m currently Tensorflow and PyTorch.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ks3122001).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/pvaceo)! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
-- 📫 &nbsp; How to reach me: kunal3122001@gmail.com OR kunal@pvaindia.com
+- 📫 &nbsp; How to reach me: kunal3122001@gmail.com.
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; Watching standUp comedy.
 - 🍕 &nbsp; Hackathons, Robowars & tech events.
 
 ### Languages and Tools:
