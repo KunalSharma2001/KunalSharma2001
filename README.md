@@ -103,7 +103,6 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
   <br />
 </details>
  -->
- <div align="center">
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -116,7 +115,6 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 	    <br />
 	</ul>	
 </details>
-</div>
 
 #
 
