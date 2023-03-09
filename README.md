@@ -4,9 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ks3122001.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KunalSh3122001)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kirro_sharma/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pvaceo)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shm_kunal)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ceokartik.ceokartik&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KunalSharma2001.KunalSharma2001&style=flat-square&color=0088cc)
 
 Hi 👋🏻, My name is Kunal Sharma and I'm pursuing my UG in Computer Science and Engineering (Artificial Intelligence) at the Pranveer Singh Institute of Technology, Kanpur, an AKTU University, Lucknow. 
 During my college, I've worked for 8-9 months for Reset Networks, an internship related to Machine Learning and Software Development.
@@ -22,7 +22,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 - 🛠 &nbsp; I’m currently working with Machine Learning, C++, Python, Data Analysis, <br /> MATLABS, Power BI.
 - 🚀 &nbsp; I’m currently Tensorflow and PyTorch.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ks3122001).
-- 💬 &nbsp; Ask me about anything [here](https://t.me/pvaceo)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://t.me/shm_kunal)! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: kunal3122001@gmail.com.
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
@@ -30,7 +30,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Watching standUp comedy.
+- 📰 &nbsp; Watching Netflix and Freecodecamp.
 - 🍕 &nbsp; Hackathons, Robowars & tech events.
 
 ### Languages and Tools:
@@ -38,14 +38,11 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/></code>
+          
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
@@ -106,6 +103,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
   <br />
 </details>
  -->
+ <div align="center">
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -118,6 +116,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 	    <br />
 	</ul>	
 </details>
+</div>
 
 #
 
