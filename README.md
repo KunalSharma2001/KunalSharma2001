@@ -3,25 +3,25 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sharma-3b35661a8/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kunalsharma2001.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KunalSh3122001)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kirro_sharma/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ui_kunal/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shm_kunal)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KunalSharma2001.KunalSharma2001&style=flat-square&color=0088cc)
 
-Hi 👋🏻, My name is Kunal Sharma and I'm pursuing my UG in Computer Science and Engineering (Artificial Intelligence) at the Pranveer Singh Institute of Technology, Kanpur, an AKTU University, Lucknow. 
-During my college, I've worked for 8-9 months for Reset Networks, an internship related to Machine Learning and Software Development.
+Hi 👋🏻, My name is **Kunal Sharma** and I am currently a pre-final year student pursuing a B.Tech degree in Computer Science( AI ). I am passionate about technology and enjoy learning new programming languages and software development methodologies.
+During my free time, I enjoy working on personal coding projects and contributing to open-source communities. I also love to take part in coding competitions and hackathons.
 
 I’m currently learning about Supervised Learning, Data Analysis, and Database Management Systems.
 
-I'm an aspiring Engineer with working knowledge of database, and machine learning(supervised learning), in the computer industry. Skilled in C++, Python SQL, Data Analysis.
+I'm an aspiring Engineer with working knowledge of database, and machine learning(supervised learning), in the computer industry. Skilled in C++, Python SQL, Data Analysis, Problem Solving, Algorithms.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Machine Learning, C++, Python, Data Analysis, <br /> MATLABS, Power BI.
-- 🚀 &nbsp; I’m currently Tensorflow and PyTorch.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ks3122001).
+- 🚀 &nbsp; I’m currently learning Tensorflow and PyTorch.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KunalSharma2001).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/shm_kunal)! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: kunal3122001@gmail.com.
