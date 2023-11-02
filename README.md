@@ -8,8 +8,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KunalSharma2001.KunalSharma2001&style=flat-square&color=0088cc)
 
-Hi 👋🏻, My name is **Kunal Sharma** and I am currently a pre-final year student pursuing a B.Tech degree in Computer Science( AI ). I am passionate about technology and enjoy learning new programming languages and software development methodologies.
-During my free time, I enjoy working on personal coding projects and contributing to open-source communities. I also love to take part in coding competitions and hackathons.
+Hi 👋🏻, My name is **Kunal Sharma** and I am currently a final year student pursuing B.Tech degree in Computer Science( AI ). I am passionate about technology and enjoy learning new programming languages and software development methodologies.
+During my free time, I enjoy working on personal data analysis projects and listening to music.🎧.
 
 I’m currently learning about Supervised Learning, Data Analysis, and Database Management Systems.
 
